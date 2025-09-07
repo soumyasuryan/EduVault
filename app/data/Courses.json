@@ -1,0 +1,78 @@
+[
+  {
+    "course_name": "Data Science and Machine Learning Bootcamp with R",
+    "course_image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg",
+    "tutor_name": "Jose Portilla",
+    "skills": "R Programming, Data Analysis, Machine Learning",
+    "description": "Apply R programming to analyze data and build machine learning models.",
+    "price":"25"
+  },
+  
+  {
+    "course_name": "Machine Learning by Andrew Ng",
+    "course_image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg",
+    "tutor_name": "Andrew Ng (Stanford University)",
+    "skills": "Machine Learning, Algorithms, AI Concepts",
+    "description": "Stanford's classic course for a solid foundation in machine learning.",
+    "price":"25"
+  },
+  {
+    "course_name": "React - The Complete Guide",
+    "course_image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    "tutor_name": "Maximilian Schwarzmüller",
+    "skills": "React, JavaScript, Hooks, State Management",
+    "description": "Master building interactive and dynamic user interfaces with React.",
+    "price":"25"
+  },
+  {
+    "course_name": "Java Programming and Software Engineering Fundamentals",
+    "course_image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+    "tutor_name": "Duke University Instructors",
+    "skills": "Java, Software Engineering, Data Structures",
+    "description": "Learn Java programming and essential software engineering skills.",
+    "price":"25"
+  },
+  {
+    "course_name": "Python for Everybody",
+    "course_image": "https://www.vectorlogo.zone/logos/python/python-icon.svg",
+    "tutor_name": "Dr. Charles Severance (University of Michigan)",
+    "skills": "Python, Programming Basics, Data Structures, APIs",
+    "description": "Comprehensive introduction to programming with Python for beginners.",
+    "price":"25"
+  },
+  {
+    "course_name": "Introduction to Computer Science and Programming in Python (MIT)",
+    "course_image": "https://www.vectorlogo.zone/logos/python/python-icon.svg",
+    "tutor_name": "Prof. Ana Bell, Prof. Eric Grimson",
+    "skills": "Python, Algorithms, Problem Solving",
+    "description": "MIT's rigorous introduction to computer science using Python.",
+    "price":"25"
+  },
+  {
+    "course_name": "IBM Full Stack Software Developer Professional Certificate",
+    "course_image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+    "tutor_name": "IBM Instructors",
+    "skills": "HTML, CSS, JavaScript, React, Node.js, Cloud",
+    "description": "All-in-one full stack development pathway using modern technologies.",
+    "price":"25"
+  },
+  
+  {
+    "course_name": "Code Yourself! An Introduction to Programming",
+    "course_image": "https://www.vectorlogo.zone/logos/python/python-icon.svg",
+    "tutor_name": "University of Edinburgh",
+    "skills": "Programming Basics, Python, Problem Solving",
+    "description": "A beginner-friendly introduction to programming concepts using Python.",
+    "price":"25"
+  },
+  {
+    "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+    "course_image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+    "tutor_name": "Jonas Schmedtmann",
+    "skills": "JavaScript, ES6+, DOM Manipulation, Asynchronous JS, APIs",
+    "description": "Deep dive into modern JavaScript for front-end and back-end development.",
+    "price":"25"
+  }
+]
+
+

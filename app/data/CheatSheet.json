@@ -1,0 +1,64 @@
+[
+  
+  {
+    "language": "React",
+    "cheat_sheet_image": "https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png",
+    "author": "Michael Chan",
+    "price":"25"
+  },
+  {
+    "language": "Java",
+    "cheat_sheet_image": "https://cdn.iconscout.com/icon/free/png-256/java-38-1175193.png",
+    "author": "Javatpoint Contributors",
+    "price":"25"
+  },
+  {
+    "language": "C++",
+    "cheat_sheet_image": "https://cdn.iconscout.com/icon/free/png-256/c-5-569457.png",
+    "author": "Cprogramming.com Team",
+    "price":"25"
+  },
+  {
+    "language": "Python",
+    "cheat_sheet_image": "https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png",
+    "author": "Python Software Foundation",
+    "price":"25"
+  },
+  {
+    "language": "JavaScript",
+    "cheat_sheet_image": "https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png",
+    "author": "Mozilla Developer Network",
+    "price":"25"
+  },
+  {
+    "language": "CSS",
+    "cheat_sheet_image": "https://cdn.iconscout.com/icon/free/png-256/css3-7-1175237.png",
+    "author": "W3Schools",
+    "price":"25"
+  },
+  {
+    "language": "Linux Shell",
+    "cheat_sheet_image": "https://cdn.iconscout.com/icon/free/png-256/linux-20-1175251.png",
+    "author": "LinuxConfig Team",
+    "price":"25"
+  },
+  {
+  "language": "Git",
+  "cheat_sheet_image": "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg",
+  "author": "GitHub Training Team",
+  "price":"25"
+},
+{
+  "language": "Docker",
+  "cheat_sheet_image": "https://www.vectorlogo.zone/logos/docker/docker-icon.svg",
+  "author": "Docker Inc.",
+  "price":"25"
+}
+,
+  {
+    "language": "SQL",
+    "cheat_sheet_image": "https://cdn.iconscout.com/icon/free/png-256/sql-4-1175152.png",
+    "author": "Javatpoint Contributors",
+    "price":"25"
+  }
+]

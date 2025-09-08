@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 function Footer() {
   return (
-    <div className='flex flex-col items-center justify-center w-full bottom-0 text-xs p-5 mt-50 bg-white/10'>
+    <div className='flex flex-col items-center justify-center w-full bottom-0 text-xs p-5 mt-50 bg-white/10 text-white'>
 
       <ul>
         <Link href="https://mail.google.com/mail/?view=cm&fs=1&to=soumyasuryan86@gmail.com"

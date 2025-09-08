@@ -31,7 +31,7 @@ export default function OrderSummaryContent() {
   }
 
   return (
-    <div className="max-w-xl mx-auto p-6 bg-white/90 shadow-md rounded-lg mt-6 ">
+    <div className="max-w-xl mx-auto p-6 bg-white/90 shadow-md rounded-lg mt-6 text-white">
       <h1 className="text-2xl text-center text-black font-bold mb-4">
         Order Summary
       </h1>

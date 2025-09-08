@@ -76,7 +76,7 @@ export default function OrderSummary() {
   const total = subtotal + deliveryFee;
 
   return (
-    <div className="md:max-w-xl mx-1 md:mx-auto md:p-6 p-3 bg-white shadow-md rounded-lg mt-6">
+    <div className="md:max-w-xl mx-1 md:mx-auto md:p-6 p-3 bg-white shadow-md rounded-lg mt-6 text-white">
       <h1 className="md:text-2xl text-lg text-center text-black font-bold mb-4">
         Billing Details
       </h1>

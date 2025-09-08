@@ -26,7 +26,7 @@ function NavBar() {
               <li>
                 <Link
                   href="/Ebooks"
-                  className="block px-4 py-2 hover:bg-black/60 text-lg"
+                  className="block px-4 py-2 hover:bg-black/60 sm:text-lg text-sm "
                   onClick={()=>{isOpen(false)}}
                 >
                   📘 Ebooks
@@ -35,7 +35,7 @@ function NavBar() {
               <li>
                 <Link
                   href="/Courses"
-                  className="block px-4 py-2 hover:bg-black/60 text-lg"
+                  className="block px-4 py-2 hover:bg-black/60 sm:text-lg text-sm "
                   onClick={()=>{isOpen(false)}}
                 >
                  🎥 Courses
@@ -44,7 +44,7 @@ function NavBar() {
               <li>
                 <Link
                   href="/CheatSheets"
-                  className="block px-4 py-2 hover:bg-black/60 text-lg"
+                  className="block px-4 py-2 hover:bg-black/60 sm:text-lg text-sm "
                   onClick={()=>{isOpen(false)}}
                 >
                   📝 Cheat Sheets
@@ -53,7 +53,7 @@ function NavBar() {
               <li>
                 <Link
                   href="/CaseStudy"
-                  className="block px-4 py-2 hover:bg-black/60 text-lg"
+                  className="block px-4 py-2 hover:bg-black/60 sm:text-lg text-sm "
                   onClick={()=>{isOpen(false)}}
                 >
                   📊 Case Studies

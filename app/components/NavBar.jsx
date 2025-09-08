@@ -13,11 +13,11 @@ function NavBar() {
     <div className='flex md:justify-between p-4 font-bold md:flex-row flex-col items-center text-white'>
     <div className='flex justify-center items-center pl-5'><img src="open-book.svg" alt="" className='h-10'/><h1 className='text-3xl p-3 text-white' id='websiteLogo'>EduVault</h1> </div>   
     <ul className='flex md:justify-around justify-around text-md items-center pr-0 pl-0 md:pr-10  md:pl-10 sm:mr-3 mt-3 w-sm sm:w-xl'>
-      <li className='hover:scale-125 hover:underline transition-all ease-in'><Link href='/' className=' hover:scale-110 text-xl transition-all ease-in-out'>Home</Link></li>
+      <li className='hover:scale-125 hover:underline transition-all ease-in'><Link href='/' onClick={()=>{isOpen(false)}} className='text-sm hover:scale-110 md:text-xl transition-all ease-in-out'>Home</Link></li>
       <li className="relative">
           <button
             onClick={toggleDropdown}
-            className="p-3 flex items-center gap-1  hover:scale-110 text-xl transition-all ease-in"
+            className="p-3 flex items-center gap-1  hover:scale-110 text-sm sm:text-xl transition-all ease-in"
           >
            <span className='hover:underline'>Services</span>  <span className='text-lg'>{isOpen ? "▲" : "▼"}</span> 
           </button>
@@ -62,9 +62,9 @@ function NavBar() {
             </ul>
           )}
         </li>
-      <li className='hover:scale-125 hover:underline transition-all ease-in'><Link href='/about' className=' hover:scale-110 text-xl transition-all ease-in-out'>About</Link></li>
+      <li className='hover:scale-125 hover:underline transition-all ease-in'><Link href='/about' onClick={()=>{isOpen(false)}} className='text-sm hover:scale-110 md:text-xl transition-all ease-in-out'>About</Link></li>
       
-      <li className='hover:scale-125 hover:underline transition-all ease-in'><Link href='/contact' className='hover:scale-110 text-xl hover:underline transition-all ease-in-out'>Contact</Link></li>
+      <li className='hover:scale-125 hover:underline transition-all ease-in'><Link href='/contact' onClick={()=>{isOpen(false)}} className='text-smhover:scale-110 tmd:ext-xl hover:underline transition-all ease-in-out'>Contact</Link></li>
     </ul>
     </div>
   );

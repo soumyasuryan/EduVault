@@ -16,7 +16,7 @@ export default function ContactPage() {
   };
 
   return (
-    <div className="max-w-2xl mx-auto p-6 mt-8 bg-white rounded-lg shadow-md text-black">
+    <div className="max-w-2xl mx-auto p-6 mt-8 bg-white rounded-lg shadow-md text-black w-[90%]">
       <h1 className="text-3xl font-bold text-center text-blue-900 mb-6">Contact Us</h1>
 
       {/* Contact Info with Icons */}
